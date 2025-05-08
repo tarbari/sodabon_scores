@@ -1,0 +1,46 @@
+{
+    "group_a": [
+        {
+            "name": "Paul",
+            "time": "10:00",
+            "score": 3
+        },
+        {
+            "name": "John",
+            "time": "10:15",
+            "score": 4
+        },
+        {
+            "name": "George",
+            "time": "10:30",
+            "score": 0
+        },
+        {
+            "name": "Ringo",
+            "time": "10:45",
+            "score": 1
+        }
+    ],
+    "group_b": [
+        {
+            "name": "Jon",
+            "time": "20:00",
+            "score": 2
+        },
+        {
+            "name": "Steve",
+            "time": "20:15",
+            "score": 2
+        },
+        {
+            "name": "Chris",
+            "time": "20:30",
+            "score": 123
+        },
+        {
+            "name": "Alan",
+            "time": "20:45",
+            "score": 9
+        }
+    ]
+}
