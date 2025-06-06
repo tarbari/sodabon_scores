@@ -10,18 +10,23 @@
     "players": {
         "group_a": [
             {
-                "name": "Namelag",
+                "name": "MikkoP showcase (not applicable to the event)",
                 "time": "10:00",
                 "score": 0
             },
             {
-                "name": "TyeS",
+                "name": "Namelag",
                 "time": "10:15",
                 "score": 0
             },
             {
-                "name": "Frenworld",
+                "name": "TyeS",
                 "time": "10:30",
+                "score": 0
+            },
+            {
+                "name": "Frenworld",
+                "time": "10:45",
                 "score": 0
             }
         ],
